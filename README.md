@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vib-D
-- 👀 I’m interested in Web Development and IOT
-- 🌱 I’m currently learning C programming and HTML
-- 💞️ I’m looking to collaborate on minor projects in WebD to learn more.
+-  Interested in Web Development and IOT
+-  Currently learning programming and Web Development.
+-  Looking forward to collaborate on minor projects in WebD to learn more.
 - 📫  vibhordass2@gmail.com
 
 <!---
